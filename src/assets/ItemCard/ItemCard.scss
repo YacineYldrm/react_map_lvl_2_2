@@ -38,3 +38,26 @@
     font-size: 1rem;
     font-weight: 100;
 }
+
+/* ============================================== */
+/*                 MEDIA QUERIES                  */
+/* ============================================== */
+
+@media screen and (max-width: 400px) {
+    .item_card_top h2 {
+        font-size: 4.8rem;
+    }
+
+    .item_card_top h3 {
+        font-size: 2rem;
+    }
+
+    .item_card_top h4 {
+        font-size: 1.2rem;
+    }
+
+    .item_card_top h5 {
+        font-size: 1rem;
+        font-weight: 100;
+    }
+}

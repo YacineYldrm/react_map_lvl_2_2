@@ -11,3 +11,13 @@
     padding-inline: 40px;
     list-style-type:square;
 }
+
+/* ============================================== */
+/*                 MEDIA QUERIES                  */
+/* ============================================== */
+
+@media screen and (max-width: 400px) {
+    .ul_wrapper li {
+        font-size: 1rem;
+    }
+}
